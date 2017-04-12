@@ -11,6 +11,9 @@
     "codeceptjs",
     "webdriverio"
   ],
+  "bin": {
+    "codeceptjs": "./node_modules/.bin/codeceptjs"
+  },    
   "author": {
     "name": "DavertMik",
     "email": "davert@codegyre.com",
