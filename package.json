@@ -1,15 +1,15 @@
 {
-  "name": "codeceptjs-webdriverio",
+  "name": "codeceptjs-protractor",
   "version": "1.0.0",
-  "description": "CodeceptJS with WebDriverIO installed",
+  "description": "CodeceptJS with Protractor installed",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/DavertMik/codeceptjs-webdriverio.git"
+    "url": "git+ssh://git@github.com/DavertMik/codeceptjs-protractor.git"
   },
   "keywords": [
     "codeceptjs",
-    "webdriverio"
+    "protractor"
   ],
   "bin": {
     "codeceptjs": "./node_modules/.bin/codeceptjs"
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "codeceptjs": "*",
-    "webdriverio": "*"
+    "protractor": "^5.0.0"
   },
   "license": "MIT",
   "homepage": "http://codecept.io"
