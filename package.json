@@ -1,11 +1,12 @@
 {
   "name": "codeceptjs-protractor",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "CodeceptJS with Protractor installed",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/DavertMik/codeceptjs-protractor.git"
+    "url": "git+ssls
+    h://git@github.com/DavertMik/codeceptjs-protractor.git"
   },
   "keywords": [
     "codeceptjs",
@@ -20,7 +21,7 @@
     "url": "http://codegyre.com"
   },
   "dependencies": {
-    "codeceptjs": "*",
+    "codeceptjs": "^1.1.0",
     "protractor": "^5.0.0"
   },
   "license": "MIT",
